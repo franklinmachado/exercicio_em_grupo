@@ -12,3 +12,5 @@ Um exercício proposto pelo professor Roque Fernandes para melhorar a utilizaç�
 ### Integrantes do grupo
 `Franklin Machado dos Santos`
 `Tereza Zeizer Wisser` 
+`Jose Edmar de Siqueira`
+`Alessandro Paolazzi`
