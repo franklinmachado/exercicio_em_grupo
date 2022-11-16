@@ -14,3 +14,4 @@ Um exercício proposto pelo professor Roque Fernandes para melhorar a utilizaç�
 `Tereza Zeizer Wisser` 
 `Jose Edmar de Siqueira`
 `Alessandro Paolazzi`
+`Rodrigo Batista de Oliveira`
