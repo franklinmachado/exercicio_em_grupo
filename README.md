@@ -24,3 +24,4 @@ Um exercício proposto pelo professor Roque Fernandes para melhorar a utilizaç�
 `Rodrigo Batista de Oliveira`
 `Cleyton Roberto da Silva`
 `Alexandro Lima Mangabeira`
+`João Vitor Santana Pereira`
