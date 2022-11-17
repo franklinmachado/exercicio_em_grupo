@@ -23,3 +23,4 @@ Um exercício proposto pelo professor Roque Fernandes para melhorar a utilizaç�
 `Alessandro Paolazzi`
 `Rodrigo Batista de Oliveira`
 `Cleyton Roberto da Silva`
+`Alexandro Lima Mangabeira`
